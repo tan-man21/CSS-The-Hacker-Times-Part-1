@@ -9,6 +9,11 @@ header .date{
 header h1{
     text-align: center;
 }
+nav{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
 nav ul{
     padding-left: 0;
     text-align: center;
